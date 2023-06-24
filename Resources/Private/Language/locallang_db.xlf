@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" datatype="plaintext" original="messages" date="2022-04-23UTC07:29:250">
+        <header>
+            <authorName>Lina Wolf</authorName>
+            <authorEmail>112@linawolf.de</authorEmail>
+        </header>
+        <body>
+			<trans-unit id="typolink_page_type" xml:space="preserve">
+				<source>Typolink</source>
+			</trans-unit>
+			<trans-unit id="pages.typolink" xml:space="preserve">
+				<source>Typolink</source>
+			</trans-unit>
+        </body>
+    </file>
+</xliff>

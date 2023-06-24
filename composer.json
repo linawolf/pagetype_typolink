@@ -1,0 +1,21 @@
+{
+    "name": "linawolf/pagetype-typolink",
+    "type": "typo3-cms-extension",
+    "description": "Pagetype typolink",
+    "homepage": "https://linawolf.de",
+    "license": ["GPL-2.0-or-later"],
+    "keywords": ["TYPO3 CMS"],
+    "require": {
+        "typo3/cms-core": "^12.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "LinaWolf\\PagetypeTypolink\\": "Classes/"
+        }
+    },
+    "extra": {
+        "typo3/cms": {
+            "extension-key": "pagetype_typolink"
+        }
+    }
+}
